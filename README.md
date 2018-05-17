@@ -1,5 +1,6 @@
 # Latest Version Checker
 
+- Coded By Walter Cheng
 - Technically challenge for Lalamove 
 - https://github.com/lalamove/intern-tech-challenge
 - Written in Go Language, Operating System : Mac OS
