@@ -111,7 +111,6 @@ func main() {
 		if versionString[0] == 'v' {
 			versionString = versionString[1:]
 		}
-		fmt.Println(versionString)
 		allReleases[i] = semver.New(versionString)
 	}
 
